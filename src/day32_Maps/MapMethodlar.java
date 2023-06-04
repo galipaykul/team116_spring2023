@@ -105,5 +105,13 @@ public class MapMethodlar {
         // varolan bir elementi yeniden eklemek isterseniz
         // key varoldugu icin, eski value'yu silip, yeni value yapar
         return ogrenciMap;
+        
+    }
+
+    {
+    }
+
+    public static Map<Integer, String> yilSonuSinifArtir(Map<Integer, String> ogrenciMap) {
+        return ogrenciMap;
     }
 }
